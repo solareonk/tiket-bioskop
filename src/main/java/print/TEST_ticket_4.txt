@@ -1,0 +1,8 @@
+===== Ticket Details =====
+User ID: 1
+Ticket ID: 4
+Film: Frozen
+Nama Pembeli: TEST
+Jumlah Tiket: 2
+Total Harga: $160.00
+==========================

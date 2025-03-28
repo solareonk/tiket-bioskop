@@ -1,0 +1,8 @@
+===== Ticket Details =====
+User ID: 1
+Ticket ID: 5
+Film: Avatar
+Nama Pembeli: TEST
+Jumlah Tiket: 2222
+Total Harga: $222200.00
+==========================

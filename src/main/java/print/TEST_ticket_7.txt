@@ -1,0 +1,8 @@
+===== Ticket Details =====
+User ID: 1
+Ticket ID: 7
+Film: Avatar
+Nama Pembeli: TEST
+Jumlah Tiket: 1
+Total Harga: Rp100,00
+==========================
