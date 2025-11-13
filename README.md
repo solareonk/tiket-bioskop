@@ -215,19 +215,3 @@ Database sudah dilengkapi dengan sample data:
 **Test User:**
 - Username: `TEST`
 - Password: `123`
-
-## 🤝 Kontribusi
-
-Contributions are welcome! Silakan buat issue atau pull request.
-
-## 📄 License
-
-Project ini dibuat untuk tujuan pembelajaran.
-
-## 👨‍💻 Author
-
-Dibuat dengan ❤️ menggunakan Java & Swing
-
----
-
-**Happy Coding!** 🚀
